@@ -1,0 +1,1 @@
+Basic javaScript project to change color pallete and copy color of the exact pallete
